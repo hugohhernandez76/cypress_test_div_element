@@ -1,0 +1,29 @@
+{
+  "name": "cypress_test_divelement",
+  "version": "1.0.0",
+  "description": "testing for divelement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugohhernandez76/cypress_test_div_element.git"
+  },
+  "keywords": [
+    "cypress.io",
+    "testing"
+  ],
+  "author": "Victor Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hugohhernandez76/cypress_test_div_element/issues"
+  },
+  "homepage": "https://github.com/hugohhernandez76/cypress_test_div_element#readme",
+  "devDependencies": {
+    "cypress": "^10.3.0",
+    "cypress-xpath": "^2.0.0"
+  }
+}
